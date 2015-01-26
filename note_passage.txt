@@ -1,0 +1,20 @@
+principe de navigation 
+  - bouton retour
+  - bouton "annuler"
+
+[ok]ajouter les cas specifique
+  - cas d'erreur
+
+
+class loading (chargement des plugings)
+
+[ok]mcd: 
+
+table note (enlevé)
+sur user->compte mettre 1,1 
+categorie/plugings 0,n les deux
+
+
+[ok]rajouter l action authentification sur le CU
+
+popup: jwindows(fenetre sans contour)
